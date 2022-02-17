@@ -1,0 +1,20 @@
+{
+  "id": "smartwatch",
+  "nome": "Smartwatch",
+  "preco": 1199,
+  "descricao": "Ele mostra suas notificações e mensagens, troca suas músicas, configura alarmes e monitora seus batimentos cardíacos e número de passos diários, além de outras diversas funções.",
+  "estoque": 5,
+  "img": "./api/produtos/smartwatch/smartwatch-foto.jpg",
+  "avaliacoes": [
+    {
+      "nome": "Rogério",
+      "estrelas": 5,
+      "descricao": "Gostei muito do produto, atendeu todas as minhas necessidades."
+    },
+    {
+      "nome": "Nathália",
+      "estrelas": 4,
+      "descricao": "Gostei, mas o preço poderia ser melhor."
+    }
+  ]
+}

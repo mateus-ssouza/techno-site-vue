@@ -1,0 +1,20 @@
+{
+  "id": "tablet",
+  "nome": "Tablet",
+  "preco": 899,
+  "descricao": "Possui acesso à Internet, organização pessoal, visualização de fotos, vídeos, leitura de livros, jornais e revistas, também utilizado para entretenimento com jogos e interação com pessoas distantes usando o Skype e o Hangouts.",
+  "estoque": 2,
+  "img": "./api/produtos/tablet/tablet-foto.jpg",
+  "avaliacoes": [
+    {
+      "nome": "Rogério",
+      "estrelas": 5,
+      "descricao": "Gostei muito do produto, atendeu todas as minhas necessidades."
+    },
+    {
+      "nome": "Nathália",
+      "estrelas": 4,
+      "descricao": "Gostei, mas o preço poderia ser melhor."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "notebook",
+  "nome": "Notebook",
+  "preco": 2999,
+  "descricao": "Um computador portátil possui hoje capacidades de processamento e armazenamento próximas dos computadores desktops, o que lhe assegura funções de multimídia de alta tecnologia (leitura de DVD, videogames, processamento de imagens em 3D, etc.). Assim sendo, seu uso é mais variado na medida em que pode ser levado para qualquer lugar.",
+  "estoque": 12,
+  "img": "./api/produtos/notebook/notebook-foto.jpg",
+  "avaliacoes": [
+    {
+      "nome": "Fábio",
+      "estrelas": 5,
+      "descricao": "Gostei muito do produto, atendeu todas as minhas necessidades"
+    },
+    {
+      "nome": "Ana",
+      "estrelas": 4,
+      "descricao": "Gostei, atende as necessidades atribuídas"
+    }
+  ]
+}
